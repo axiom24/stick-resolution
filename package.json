@@ -1,0 +1,22 @@
+{
+  "name": "go-freaking-do-it",
+  "version": "1.0.0",
+  "description": "",
+  "main": "truffle.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/axiom24/go-freaking-do-it.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/axiom24/go-freaking-do-it/issues"
+  },
+  "homepage": "https://github.com/axiom24/go-freaking-do-it#readme"
+}
