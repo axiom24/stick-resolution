@@ -1,1 +1,1 @@
-# go-freaking-do-it
+# Make your resolution stick
